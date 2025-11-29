@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/santiye-gunlugu/static/css/main.f16a9cb4.css",
-    "main.js": "/santiye-gunlugu/static/js/main.74d26619.js",
+    "main.js": "/santiye-gunlugu/static/js/main.3b83a596.js",
     "static/js/453.37ccb68f.chunk.js": "/santiye-gunlugu/static/js/453.37ccb68f.chunk.js",
     "index.html": "/santiye-gunlugu/index.html",
     "main.f16a9cb4.css.map": "/santiye-gunlugu/static/css/main.f16a9cb4.css.map",
-    "main.74d26619.js.map": "/santiye-gunlugu/static/js/main.74d26619.js.map",
+    "main.3b83a596.js.map": "/santiye-gunlugu/static/js/main.3b83a596.js.map",
     "453.37ccb68f.chunk.js.map": "/santiye-gunlugu/static/js/453.37ccb68f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f16a9cb4.css",
-    "static/js/main.74d26619.js"
+    "static/js/main.3b83a596.js"
   ]
 }
